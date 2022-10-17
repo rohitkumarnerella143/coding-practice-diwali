@@ -1,0 +1,28 @@
+.main{
+    background-color: rgb(218, 241, 175);
+    height: 100%;
+}
+.top-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 36%;
+}
+.top-heading {
+    width: 15rem;
+    color: rgb(48, 196, 222);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+.bottom-section{
+    
+}
+.bt-card{
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.img-details{
+    width: 4rem;
+}

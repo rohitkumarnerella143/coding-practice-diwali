@@ -1,6 +1,8 @@
 .main{
-    background-color: rgb(218, 241, 175);
+    background: url("./image2.jpg");
     height: 100%;
+    background-size: cover;
+    align-items: center;
 }
 .top-section{
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
